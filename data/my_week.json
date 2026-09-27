@@ -1,0 +1,19 @@
+{
+  "week_start": "2026-09-21",
+  "manual_planning_minutes": 120,
+  "weekly_blocks": [
+    { "weekday": 0, "title": "Adli Bilişim", "start_time": "09:00", "end_time": "12:00" },
+    { "weekday": 0, "title": "Ruby dersi", "start_time": "13:00", "end_time": "16:00" },
+    { "weekday": 1, "title": "Kuantum Bilgisayar", "start_time": "09:00", "end_time": "13:00" },
+    { "weekday": 2, "title": "Web Programlama", "start_time": "09:00", "end_time": "11:00" },
+    { "weekday": 2, "title": "Veri Tabanı", "start_time": "13:00", "end_time": "16:00" },
+    { "weekday": 3, "title": "İş", "start_time": "09:00", "end_time": "18:00" },
+    { "weekday": 4, "title": "İş", "start_time": "09:00", "end_time": "18:00" },
+    { "weekday": 5, "title": "İş", "start_time": "09:00", "end_time": "18:00" }
+  ],
+  "tasks": [
+    { "title": "Ruby dersi tekrar notları", "duration_minutes": 60, "due_date": "2026-09-22" },
+    { "title": "Veri tabanı ödevi", "duration_minutes": 90, "due_date": "2026-09-24" },
+    { "title": "Web dersi proje hazırlığı", "duration_minutes": 90, "due_date": "2026-09-25" }
+  ]
+}

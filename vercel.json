@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/*.rb": {
+      "maxDuration": 20
+    }
+  },
+  "rewrites": [
+    { "source": "/plan", "destination": "/pages/plan.html" },
+    { "source": "/tasks", "destination": "/pages/tasks.html" },
+    { "source": "/program", "destination": "/pages/program.html" },
+    { "source": "/team", "destination": "/pages/team.html" },
+    { "source": "/settings", "destination": "/pages/settings.html" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "week_start": "2026-09-21",
+  "allocations": [
+    {
+      "task": "Ruby dersi tekrar notları",
+      "date": "2026-09-21",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "minutes": 60
+    },
+    {
+      "task": "Veri tabanı ödevi",
+      "date": "2026-09-21",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "minutes": 60
+    },
+    {
+      "task": "Veri tabanı ödevi",
+      "date": "2026-09-21",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "minutes": 30
+    },
+    {
+      "task": "Web dersi proje hazırlığı",
+      "date": "2026-09-21",
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "minutes": 90
+    }
+  ],
+  "unplaced": [],
+  "estimated_minutes_saved": 120,
+  "note": "Tasarruf değeri, örnek takvimdeki manuel planlama süresi varsayımıdır."
+}
